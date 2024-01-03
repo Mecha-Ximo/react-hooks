@@ -27,6 +27,7 @@ const UseRef = () => {
       <h1>Use Ref Hook</h1>
       <div
         ref={divRef}
+        data-testid="color-box"
         style={{
           width: '200px',
           height: '200px',
