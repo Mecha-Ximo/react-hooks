@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import UseRef from './useRef/useRef';
+import UseRef from './hooks/useRef';
 import Home from './home';
 import Header from './header';
 import './App.css';
-import UseReducer from './useRef/useReducer';
+import UseReducer from './hooks/useReducer';
 
 const App = () => {
   return (
