@@ -11,6 +11,9 @@ const Home = () => {
           <li>
             <Link to="/use-ref">useRef</Link>
           </li>
+          <li>
+            <Link to="/use-memo">useMemo</Link>
+          </li>
         </ul>
       </nav>
     </main>
