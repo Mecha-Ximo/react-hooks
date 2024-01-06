@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 todo.txt
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
