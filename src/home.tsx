@@ -22,6 +22,10 @@ const hookLinks: HookLink[] = [
     path: '/use-callback',
     title: 'useCallback',
   },
+  {
+    path: '/use-id',
+    title: 'useId',
+  },
 ];
 
 const Home = () => {
